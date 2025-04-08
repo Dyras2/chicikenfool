@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ChickenFool Token</title>
+  <link rel="icon" href="chickenfool-logo.png" type="image/png">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Arial', sans-serif;
+      background-color: #fffbe6;
+      color: #333;
+      text-align: center;
+    }
+    header {
+      padding: 40px 20px;
+    }
+    header img {
+      width: 120px;
+    }
+    h1 {
+      font-size: 2.5rem;
+      margin-top: 20px;
+    }
+    p {
+      font-size: 1.2rem;
+      max-width: 600px;
+      margin: 10px auto;
+    }
+    .btns a {
+      display: inline-block;
+      margin: 10px;
+      padding: 12px 24px;
+      background-color: #ffcd3c;
+      color: #000;
+      text-decoration: none;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: background 0.3s;
+    }
+    .btns a:hover {
+      background-color: #ffd95c;
+    }
+    footer {
+      margin-top: 60px;
+      font-size: 0.9rem;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="chickenfool-logo.png" alt="ChickenFool Logo" />
+    <h1>ChickenFool Token</h1>
+    <p>The Foolish Chicken That Will Moon! 🚀</p>
+    <div class="btns">
+      <a href="https://t.me/chickenfool" target="_blank">Join Telegram</a>
+      <a href="https://x.com/Chickenfool75" target="_blank">Follow Twitter</a>
+      <a href="https://pancakeswap.finance/swap?outputCurrency=0x16F34B2E69C8C329AF3A2376C3c93aA49880aA06" target="_blank">Buy Now</a>
+    </div>
+  </header>
+
+  <section>
+    <h2>About ChickenFool</h2>
+    <p>
+      ChickenFool is a meme token born to rule the coop. Fair launch, fun community, and anti-bot features to keep things spicy.
+    </p>
+    <p><strong>Contract:</strong> 0x16F34B2E69C8C329AF3A2376C3c93aA49880aA06</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 ChickenFool. All rights reserved.</p>
+  </footer>
+</body>
+</html>
